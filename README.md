@@ -12,11 +12,6 @@ A fun and interactive number guessing game built with vanilla JavaScript. Try to
 - **Responsive Design**: Works great on both desktop and mobile devices
 - **Visual Feedback**: Color changes and animations provide intuitive feedback
 
-## 🚀 Live Demo
-
-[Play the game here](#) <!-- Add your deployed game URL here -->
-
-![Game Screenshot](screenshot.png) <!-- Add a screenshot of your game -->
 
 ## 🛠️ Installation
 
@@ -88,13 +83,6 @@ You can easily customize the game by modifying:
 - [ ] Add multiplayer support
 - [ ] Implement a leaderboard
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👏 Credits
-
-Created by [Your Name] - feel free to contact me!
 
 ---
 
