@@ -74,15 +74,6 @@ You can easily customize the game by modifying:
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
-## 📝 Future Improvements
-
-- [ ] Add sound effects
-- [ ] Implement different difficulty levels
-- [ ] Add a hint system
-- [ ] Create animations for score changes
-- [ ] Add multiplayer support
-- [ ] Implement a leaderboard
-
 
 ---
 
